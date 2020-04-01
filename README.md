@@ -7,7 +7,6 @@ doc中为阳哥使用的脑图
 脑图最新：
 链接：https://pan.baidu.com/s/1gDkixE2W83GDVvqFNu8_Cw 
 提取码：a010 
-复制这段内容后打开百度网盘手机App，操作更方便哦
 
 software中是软件
 software太大了
