@@ -24,7 +24,7 @@ spring:
         - id: route_guonei
           uri: http://www.baidu.com
           predicates:
-            - Path=guonei   #断言,路径相匹配的进行路由
+            - Path=guonei   #断言,路径相匹配的进行路由,失败
 
 
 eureka:

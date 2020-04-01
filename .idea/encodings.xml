@@ -25,9 +25,15 @@
     <file url="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudalibaba-config-nacos-client3377" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudalibaba-provider-payment9001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudalibaba-provider-payment9002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudalibaba-provider-payment9003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudalibaba-provider-payment9004" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudalibaba-sentinel-service8401" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-order-service2001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-order-service2002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-order-service2003" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
