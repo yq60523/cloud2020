@@ -259,7 +259,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1750" />
@@ -798,6 +798,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SeataAccountMainApp2003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="seata-order-service2003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.alibaba.SeataAccountMainApp2003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SeataOrderMainApp2001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="seata-order-service2001" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.alibaba.SeataOrderMainApp2001" />
@@ -876,12 +883,13 @@
       <item itemvalue="Spring Boot.PaymentMain9011 copy of 9001" />
       <item itemvalue="Spring Boot.PaymentMain9002" />
       <item itemvalue="Spring Boot.OrderNacosMain83" />
-      <item itemvalue="Spring Boot.NacosConfigClientMain3377" />
-      <item itemvalue="Spring Boot.MainApp8401" />
       <item itemvalue="Spring Boot.PaymentMain9003" />
       <item itemvalue="Spring Boot.OrderNacosMain84" />
       <item itemvalue="Spring Boot.SeataOrderMainApp2001" />
       <item itemvalue="Spring Boot.SeataStorageServiceApplication2002" />
+      <item itemvalue="Spring Boot.NacosConfigClientMain3377" />
+      <item itemvalue="Spring Boot.MainApp8401" />
+      <item itemvalue="Spring Boot.SeataAccountMainApp2003" />
     </list>
     <recent_temporary>
       <list>
