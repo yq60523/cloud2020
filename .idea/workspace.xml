@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e22b3e99-4c56-4181-8ef1-a44082a1e5d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/software/sentinel-dashboard-1.7.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/software/zipkin-server-2.12.9-exec.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/software/zookeeper-3.4.14.tar.gz" afterDir="false" />
-    </list>
+    <list default="true" id="e22b3e99-4c56-4181-8ef1-a44082a1e5d0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/cloud-api-commons/target/" />
     <ignored path="$PROJECT_DIR$/cloud-consumer-order80/target/" />
@@ -733,7 +729,7 @@
       <workItem from="1585705839522" duration="576000" />
       <workItem from="1585706895101" duration="6846000" />
       <workItem from="1585725120490" duration="6378000" />
-      <workItem from="1585803096671" duration="766000" />
+      <workItem from="1585803096671" duration="1109000" />
     </task>
     <task id="LOCAL-00001" summary="message">
       <created>1585803267922</created>
@@ -770,11 +766,25 @@
       <option name="project" value="LOCAL" />
       <updated>1585803770630</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="message">
+      <created>1585803885381</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585803885381</updated>
+    </task>
+    <task id="LOCAL-00007" summary="message">
+      <created>1585804019023</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585804019023</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85550000" />
+    <option name="totallyTimeSpent" value="85893000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -788,7 +798,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2841823" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2841823" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -804,7 +814,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3838527" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3838527" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5020107" side_tool="true" weight="0.37340876" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
