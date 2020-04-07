@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e22b3e99-4c56-4181-8ef1-a44082a1e5d0" name="Default Changelist" comment="" />
+    <list default="true" id="e22b3e99-4c56-4181-8ef1-a44082a1e5d0" name="Default Changelist" comment="message">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/consul_1.7.1_windows_amd64.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/consul_1.7.2_linux_amd64.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/consul_1.7.2_windows_amd64.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/nacos-server-1.1.4.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/nacos-server-1.1.4.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/nacos-server-1.2.0.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/otp_win64_21.0.1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/rabbitmq-server-windows-3.7.14.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/seata-server-1.0.0.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/sentinel-dashboard-1.7.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/zipkin-server-2.12.9-exec.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software/zookeeper-3.4.14.tar.gz" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/cloud-api-commons/target/" />
     <ignored path="$PROJECT_DIR$/cloud-consumer-order80/target/" />
@@ -64,7 +78,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/SeataOrderMainApp2001.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
+            <state relative-caret-position="220">
               <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -75,16 +89,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/service/impl/OrderServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-116">
-              <caret line="30" column="94" selection-start-line="30" selection-start-column="94" selection-end-line="30" selection-end-column="94" />
+            <state relative-caret-position="836">
+              <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -269,7 +288,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -277,26 +295,11 @@
               <item name="cloud2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="cloud2020" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="cloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="doc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-order-service2003" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="seata-order-service2003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -310,7 +313,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/seata-order-service2003/src/main/java/com/atguigu/springcloud/alibaba" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4019729" />
@@ -696,9 +699,9 @@
       <item itemvalue="Spring Boot.OrderNacosMain84" />
       <item itemvalue="Spring Boot.SeataOrderMainApp2001" />
       <item itemvalue="Spring Boot.SeataStorageServiceApplication2002" />
+      <item itemvalue="Spring Boot.SeataAccountMainApp2003" />
       <item itemvalue="Spring Boot.NacosConfigClientMain3377" />
       <item itemvalue="Spring Boot.MainApp8401" />
-      <item itemvalue="Spring Boot.SeataAccountMainApp2003" />
     </list>
     <recent_temporary>
       <list>
@@ -729,7 +732,8 @@
       <workItem from="1585705839522" duration="576000" />
       <workItem from="1585706895101" duration="6846000" />
       <workItem from="1585725120490" duration="6378000" />
-      <workItem from="1585803096671" duration="1109000" />
+      <workItem from="1585803096671" duration="1389000" />
+      <workItem from="1586240072797" duration="1091000" />
     </task>
     <task id="LOCAL-00001" summary="message">
       <created>1585803267922</created>
@@ -780,11 +784,18 @@
       <option name="project" value="LOCAL" />
       <updated>1585804019023</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="message">
+      <created>1585804365507</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585804365507</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85893000" />
+    <option name="totallyTimeSpent" value="87264000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -798,7 +809,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2841823" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28820375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -814,14 +825,14 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3838527" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49865952" weight="0.3838527" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5020107" side_tool="true" weight="0.37340876" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
       <window_info anchor="bottom" id="Problems" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="15" sideWeight="0.49865952" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Run Dashboard" order="16" sideWeight="0.49798927" weight="0.37252125" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -859,13 +870,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="654">
-          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/resources/file.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -1194,7 +1198,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/SeataOrderMainApp2001.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="220">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1206,13 +1210,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/alibaba/service/impl/OrderServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-116">
-          <caret line="30" column="94" selection-start-line="30" selection-start-column="94" selection-end-line="30" selection-end-column="94" />
+        <state relative-caret-position="836">
+          <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
@@ -1264,7 +1271,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>cloudalibaba-sentinel-service8401</last-edited>
+          <last-edited>cloud2020</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
